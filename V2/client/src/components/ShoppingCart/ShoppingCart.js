@@ -27,11 +27,11 @@ const ShoppingCart = (props) => {
     })
     console.log("item")
   }
-  const total=(cart)=>{
-    dispatch({
-    type:"Total"
-})
-  }
+// ne marche pas fait autrement  const total=(cart)=>{
+//     dispatch({
+//     type:"Total"
+// })
+//   }
 if (open==true && cart.length>0){
   return (<>
   <div className={styles.cart}><FontAwesomeIcon icon={faShoppingCart} className={styles.cartIcon} /><div className={styles.numberOfItems}>{cart.length}</div></div>
