@@ -1,0 +1,225 @@
+[{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c0d"
+  },
+  "id": "0",
+  "photo": "http://localhost:8080/images/maillot/realD.jpg",
+  "name": "maillot real madrid",
+  "description": "domicile",
+  "price": 1,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c0e"
+  },
+  "id": "1",
+  "photo": "http://localhost:8080/images/maillot/realE2.jpg",
+  "name": "maillot real madrid",
+  "description": "exterieur",
+  "price": 90,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c0f"
+  },
+  "id": "2",
+  "photo": "http://localhost:8080/images/maillot/real3rd.jpg",
+  "name": "maillot real madrid",
+  "description": "3ème maillot",
+  "price": 85,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c10"
+  },
+  "id": "3",
+  "photo": "http://localhost:8080/images/maillot/atleticoD.jpg",
+  "name": "maillot atletico",
+  "description": "domicile",
+  "price": 90,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "nike",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/nike.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c11"
+  },
+  "id": "4",
+  "photo": "http://localhost:8080/images/maillot/interD.jpg",
+  "name": "maillot inter milan",
+  "description": "domicile",
+  "price": 80,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "nike",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/nike.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c12"
+  },
+  "id": "5",
+  "photo": "http://localhost:8080/images/maillot/juventusD.png",
+  "name": "maillot juventus turin",
+  "description": "domicile",
+  "price": 80,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c13"
+  },
+  "id": "6",
+  "photo": "http://localhost:8080/images/maillot/manCityA.jpg",
+  "name": "maillot manchester city",
+  "description": "3ème maillot",
+  "price": 90,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "puma",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/puma.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c14"
+  },
+  "id": "7",
+  "photo": "http://localhost:8080/images/maillot/tottenhamD.jpg",
+  "name": "maillot tottenham",
+  "description": "domicile",
+  "price": 80,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "null",
+  "marque": "nike",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/nike.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c15"
+  },
+  "id": "8",
+  "photo": "http://localhost:8080/images/maillot/liverpoolD.jpg",
+  "name": "maillot liverpool",
+  "description": "domicile",
+  "price": 90,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "new balance",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/newBalance.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c16"
+  },
+  "id": "9",
+  "photo": "http://localhost:8080/images/maillot/ajaxD2.jpg",
+  "name": "maillot ajax amsterdam",
+  "description": "domicile",
+  "price": 75,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c17"
+  },
+  "id": "10",
+  "photo": "http://localhost:8080/images/maillot/ajaxE2.jpg",
+  "name": "maillot ajax amsterdam",
+  "description": "extérieur",
+  "price": 75,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c18"
+  },
+  "id": "11",
+  "photo": "http://localhost:8080/images/maillot/psgD.jpg",
+  "name": "maillot psg",
+  "description": "domicile",
+  "price": 90,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "nike",
+  "categorie": "maillot",
+  "logo": "http://localhost:8080/images/logo/nike.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c19"
+  },
+  "id": "12",
+  "photo": "http://localhost:8080/images/ballon/mondial18.jpg",
+  "name": "ballon coupe du monde",
+  "description": "2018",
+  "price": 30,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "ballon",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+},{
+  "_id": {
+    "$oid": "5eb2bdd2859247bd57096c1a"
+  },
+  "id": "13",
+  "photo": "http://localhost:8080/images/ballon/championsLeague20.jpg",
+  "name": "ballon ligue des champiions",
+  "description": "2019-2020",
+  "price": 30,
+  "curency": "€",
+  "stock": "130",
+  "isPromo": false,
+  "newPrice": "",
+  "marque": "addidas",
+  "categorie": "ballon",
+  "logo": "http://localhost:8080/images/logo/addidas.png"
+}]
